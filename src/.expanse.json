@@ -290,7 +290,8 @@
       "parentId": "f0ddd8b9-73a1-4ccf-9729-ea25a93d9100",
       "components": {},
       "name": "root_Ischia",
-      "order": 6.1179295142019114
+      "order": 6.1179295142019114,
+      "disabled": true
     },
     "0e04c766-02bb-4498-88cc-717f7f7f2a82": {
       "id": "0e04c766-02bb-4498-88cc-717f7f7f2a82",
@@ -315,7 +316,9 @@
       "parentId": "f0ddd8b9-73a1-4ccf-9729-ea25a93d9100",
       "components": {},
       "name": "root_Vivara",
-      "order": -0.06647869305312004
+      "order": -0.06647869305312004,
+      "hidden": false,
+      "disabled": true
     },
     "6450362f-deef-43d7-904d-8045d5127b08": {
       "id": "6450362f-deef-43d7-904d-8045d5127b08",
@@ -340,7 +343,8 @@
       "parentId": "f0ddd8b9-73a1-4ccf-9729-ea25a93d9100",
       "components": {},
       "name": "root_capoSorrento",
-      "order": 9.237808021651986
+      "order": 9.237808021651986,
+      "disabled": true
     },
     "8715a1c5-eb3d-4d49-a254-871c8b5fa408": {
       "id": "8715a1c5-eb3d-4d49-a254-871c8b5fa408",
@@ -407,7 +411,8 @@
       "parentId": "f0ddd8b9-73a1-4ccf-9729-ea25a93d9100",
       "components": {},
       "name": "root_puntaCampanella",
-      "order": 7.493753364602841
+      "order": 7.493753364602841,
+      "disabled": true
     },
     "2b8d283a-f965-4b6b-a269-49316fa7a430": {
       "id": "2b8d283a-f965-4b6b-a269-49316fa7a430",
@@ -474,7 +479,8 @@
       "parentId": "f0ddd8b9-73a1-4ccf-9729-ea25a93d9100",
       "components": {},
       "name": "root_Procida",
-      "order": 10.868162262379402
+      "order": 10.868162262379402,
+      "disabled": true
     },
     "9a90fbef-edd6-4540-8c13-282159c74fe0": {
       "id": "9a90fbef-edd6-4540-8c13-282159c74fe0",
@@ -541,7 +547,8 @@
       "parentId": "f0ddd8b9-73a1-4ccf-9729-ea25a93d9100",
       "components": {},
       "name": "root_Pozzuoli",
-      "order": 12.820275412343374
+      "order": 12.820275412343374,
+      "disabled": true
     },
     "3ddbfa87-3af1-4b1c-992a-878d6239345a": {
       "id": "3ddbfa87-3af1-4b1c-992a-878d6239345a",
@@ -608,7 +615,8 @@
       "parentId": "f0ddd8b9-73a1-4ccf-9729-ea25a93d9100",
       "components": {},
       "name": "root_Pompei",
-      "order": 14.373001165030251
+      "order": 14.373001165030251,
+      "disabled": true
     },
     "cf4c353f-2cc3-4fb2-8288-21d00cbf22a6": {
       "id": "cf4c353f-2cc3-4fb2-8288-21d00cbf22a6",
@@ -675,7 +683,8 @@
       "parentId": "f0ddd8b9-73a1-4ccf-9729-ea25a93d9100",
       "components": {},
       "name": "root_Napoli",
-      "order": 15.712001965193318
+      "order": 15.712001965193318,
+      "disabled": true
     },
     "80670b79-2f38-4ad5-acde-1e818761ce95": {
       "id": "80670b79-2f38-4ad5-acde-1e818761ce95",
@@ -742,7 +751,8 @@
       "parentId": "f0ddd8b9-73a1-4ccf-9729-ea25a93d9100",
       "components": {},
       "name": "root_Miseno",
-      "order": 17.155863477284996
+      "order": 17.155863477284996,
+      "disabled": true
     },
     "9debf199-06d7-4a2a-877d-688dfe999fa6": {
       "id": "9debf199-06d7-4a2a-877d-688dfe999fa6",
@@ -809,7 +819,8 @@
       "parentId": "f0ddd8b9-73a1-4ccf-9729-ea25a93d9100",
       "components": {},
       "name": "root_Ercolano",
-      "order": 18.501336265759633
+      "order": 18.501336265759633,
+      "disabled": true
     },
     "cf3c55ce-4bb5-44d3-9eb8-cb4ca66f3b21": {
       "id": "cf3c55ce-4bb5-44d3-9eb8-cb4ca66f3b21",
@@ -876,7 +887,8 @@
       "parentId": "f0ddd8b9-73a1-4ccf-9729-ea25a93d9100",
       "components": {},
       "name": "root_campiFlegrei",
-      "order": 20.068455710190424
+      "order": 20.068455710190424,
+      "disabled": true
     },
     "5a159c68-eeab-4ed9-889e-fbcbb4449757": {
       "id": "5a159c68-eeab-4ed9-889e-fbcbb4449757",
@@ -943,7 +955,8 @@
       "parentId": "f0ddd8b9-73a1-4ccf-9729-ea25a93d9100",
       "components": {},
       "name": "root_Baia",
-      "order": 21.577494449099103
+      "order": 21.577494449099103,
+      "disabled": true
     },
     "6426c63b-d6e6-4bf3-bcd6-60cf9bd92cd1": {
       "id": "6426c63b-d6e6-4bf3-bcd6-60cf9bd92cd1",
