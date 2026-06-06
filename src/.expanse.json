@@ -41,7 +41,7 @@
         "side": "back",
         "textureSrc": {
           "type": "asset",
-          "asset": "assets/VillaJovis360_01.jpg"
+          "asset": "assets/CertosaSanMartino360.jpeg"
         },
         "blending": "normal",
         "repeatX": 1
@@ -1734,6 +1734,5 @@
     "major": 2,
     "minor": 0,
     "patch": 1
-  },
-  "historyVersion": "mg92a0m2"
+  }
 }
