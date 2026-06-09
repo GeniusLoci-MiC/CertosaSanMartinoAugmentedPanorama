@@ -41,27 +41,27 @@
         "side": "back",
         "textureSrc": {
           "type": "asset",
-          "asset": "assets/CertosaSanMartino360.jpeg"
+          "asset": "assets/CertosaSanMartinoMirror.jpg"
         },
         "blending": "normal",
         "repeatX": 1
       },
       "name": "Panorama360",
       "position": [
-        0,
+        0.8373145850488577,
         0,
         0
       ],
       "rotation": [
         0,
-        -0.8141155183563255,
+        -0.814115518356325,
         0,
-        0.580702955710933
+        0.5807029557109314
       ],
       "scale": [
-        1.0000000000000284,
+        1.0000000000000315,
         1.0000000000000004,
-        1.0000000000000289
+        1.000000000000032
       ],
       "parentId": "f0ddd8b9-73a1-4ccf-9729-ea25a93d9100",
       "order": -2.4147661821808253
