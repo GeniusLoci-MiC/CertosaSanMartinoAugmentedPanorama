@@ -178,8 +178,8 @@
       ],
       "geometry": {
         "type": "plane",
-        "width": 1,
-        "height": 0.4
+        "width": 1.6000000000000005,
+        "height": 0.9999999999999999
       },
       "material": {
         "type": "basic",
@@ -272,10 +272,10 @@
         0
       ],
       "rotation": [
-        4.336808689942018e-19,
-        -0.9890158633619192,
-        -3.4691784677368694e-18,
-        0.14780941112961074
+        -0.0007605676829745764,
+        -0.9961567660501565,
+        -0.008693328396189547,
+        0.08715242412403458
       ],
       "scale": [
         1,
@@ -1692,25 +1692,25 @@
     "5e62886d-c7ef-4966-b4cc-5bef31c8b148": {
       "id": "5e62886d-c7ef-4966-b4cc-5bef31c8b148",
       "position": [
-        -3.197442310918856e-17,
-        -0.49373268442756385,
-        0
+        -4.291011990176022e-16,
+        -0.6282582529202226,
+        0.0023481525325443897
       ],
       "rotation": [
+        -5.421010862427524e-19,
         0,
-        1.387778780781446e-17,
-        0,
+        -2.1684043449710093e-19,
         1
       ],
       "scale": [
-        0.9999999999999998,
         0.9999999999999999,
-        0.9999999999999998
+        0.9999999999999999,
+        0.9999999999999999
       ],
       "geometry": {
         "type": "cylinder",
         "radius": 0.01,
-        "height": 0.5
+        "height": 0.20000000000000004
       },
       "material": {
         "type": "basic",
@@ -1852,20 +1852,20 @@
     "aa5f4667-90ba-45d1-9ae4-594106969aa9": {
       "id": "aa5f4667-90ba-45d1-9ae4-594106969aa9",
       "position": [
-        0,
-        0,
-        0
+        -0.007820596108864252,
+        -0.0023085713773731698,
+        0.0030412936084136533
       ],
       "rotation": [
-        0,
-        0,
-        0,
+        -9.244463733058732e-33,
+        -1.387778780781446e-17,
+        -6.938893903907239e-18,
         1
       ],
       "scale": [
-        1,
-        1,
-        1
+        0.9999999999999998,
+        0.9999999999999992,
+        0.9999999999999998
       ],
       "geometry": null,
       "material": null,
@@ -1874,7 +1874,7 @@
       "ui": {
         "width": 176,
         "height": 70,
-        "text": "Quarto del Priore",
+        "text": "Giardino del Priore",
         "color": "#000000",
         "fontSize": 30,
         "type": "3d",
@@ -1895,10 +1895,10 @@
         0
       ],
       "rotation": [
-        0.005312378220285426,
-        0.7933231318270091,
-        0.006923226086805038,
-        -0.6087382492388539
+        0.0017383069472894372,
+        0.9482271766362361,
+        -0.011734135552022337,
+        -0.3173712492338901
       ],
       "scale": [
         1,
@@ -1909,7 +1909,7 @@
       "material": null,
       "parentId": "f0ddd8b9-73a1-4ccf-9729-ea25a93d9100",
       "components": {},
-      "name": "root_Capri",
+      "name": "root_Posillipo",
       "order": 7.132056102070479
     },
     "137f89f4-8de4-4eca-8123-1a0e641205b4": {
@@ -1932,7 +1932,7 @@
       ],
       "geometry": {
         "type": "plane",
-        "width": 1,
+        "width": 1.3000000000000003,
         "height": 0.6000000000000001
       },
       "material": {
@@ -1945,7 +1945,7 @@
       },
       "parentId": "71ae09df-7a66-4006-9698-28a987845d9c",
       "components": {},
-      "name": "Capri",
+      "name": "Posillipo",
       "order": 7.2429311297386025,
       "shadow": {
         "castShadow": true
@@ -2017,14 +2017,14 @@
     "ad2b240a-f63d-4493-abaf-452e3e9f2473": {
       "id": "ad2b240a-f63d-4493-abaf-452e3e9f2473",
       "position": [
-        0,
-        0,
-        0
+        -0.004077954607277915,
+        -0.00012709567654145548,
+        0.003935872264358764
       ],
       "rotation": [
-        0,
-        0,
-        0,
+        8.673617379884035e-19,
+        -5.551115123125783e-17,
+        -2.168404344971009e-19,
         1
       ],
       "scale": [
@@ -2039,7 +2039,7 @@
       "ui": {
         "width": 128,
         "height": 42,
-        "text": "Capri",
+        "text": "Posillipo",
         "color": "#000000",
         "fontSize": 30,
         "type": "3d",
@@ -2182,20 +2182,20 @@
     "9a8e3d6f-f2e5-468d-9fcc-dcaae0cb6f2f": {
       "id": "9a8e3d6f-f2e5-468d-9fcc-dcaae0cb6f2f",
       "position": [
-        -0.00011460745663449678,
-        -0.0034639834482925735,
-        0.0007749557526537387
+        -0.003950443250793634,
+        -0.003266084865167329,
+        0.012578171257112913
       ],
       "rotation": [
-        8.673617379884037e-19,
-        -2.775557561562891e-17,
-        4.336808689942017e-19,
+        4.33680868994202e-19,
+        0,
+        2.168404344971009e-19,
         1
       ],
       "scale": [
-        1.0000000000000002,
-        1.0000000000000002,
-        1
+        1,
+        1,
+        0.9999999999999997
       ],
       "geometry": null,
       "material": null,
@@ -2241,7 +2241,8 @@
       "components": {},
       "name": "root_Pignatelli",
       "order": 1.6310644134207832,
-      "hidden": false
+      "hidden": false,
+      "disabled": true
     },
     "e36efd6b-2c4d-4af9-8d8a-13291573dfa5": {
       "id": "e36efd6b-2c4d-4af9-8d8a-13291573dfa5",
@@ -2386,14 +2387,14 @@
     "e59d80e2-2b01-4ed7-94ff-b1fc06ec262c": {
       "id": "e59d80e2-2b01-4ed7-94ff-b1fc06ec262c",
       "position": [
+        -0.012741138727794742,
         0,
-        0,
-        0
+        0.026123205679692063
       ],
       "rotation": [
-        0,
-        0,
-        0,
+        2.407412430484045e-34,
+        -2.7755575615628914e-17,
+        4.81482486096809e-35,
         1
       ],
       "scale": [
@@ -2408,7 +2409,7 @@
       "ui": {
         "width": 112,
         "height": 37,
-        "text": "Ischia",
+        "text": "Ischia Monte Epomeo",
         "color": "#000000",
         "fontSize": 30,
         "type": "3d",
@@ -2716,20 +2717,20 @@
     "3ee0917f-bdbc-4510-9ee1-e34af84678f4": {
       "id": "3ee0917f-bdbc-4510-9ee1-e34af84678f4",
       "position": [
-        -0.00012725173880012708,
-        0,
-        0.0006546534438793827
+        -0.00012725173880057117,
+        -1.1102230246251565e-16,
+        0.0006546534438776064
       ],
       "rotation": [
+        -8.67361737988404e-19,
         0,
-        6.938893903907228e-18,
         0,
         1
       ],
       "scale": [
-        1,
-        0.9999999999999999,
-        1
+        0.9999999999999998,
+        0.9999999999999996,
+        0.9999999999999998
       ],
       "geometry": null,
       "material": null,
@@ -2914,6 +2915,1328 @@
         "verticalTextAlign": "center"
       },
       "name": "Text (7)",
+      "order": 4.582482622489626
+    },
+    "b78698bb-7bb3-4a0b-b964-854f1945a09a": {
+      "id": "b78698bb-7bb3-4a0b-b964-854f1945a09a",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.16224231759931648,
+        -0.16829659267482533,
+        0.005657177812198301,
+        0.9722765468801892
+      ],
+      "scale": [
+        0.9999999999999998,
+        1,
+        0.9999999999999999
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "f0ddd8b9-73a1-4ccf-9729-ea25a93d9100",
+      "components": {},
+      "name": "root_QuartieriSpagnoli",
+      "order": 4.301513820919045,
+      "hidden": false
+    },
+    "1dae56d7-1255-4ce9-8362-34f671028f07": {
+      "id": "1dae56d7-1255-4ce9-8362-34f671028f07",
+      "position": [
+        0,
+        10.619961471096216,
+        45.00000000000001
+      ],
+      "rotation": [
+        -8.520060796752934e-21,
+        1.0000000000000004,
+        -1.9081958235744878e-17,
+        -4.451235806830933e-17
+      ],
+      "scale": [
+        5,
+        4.999999999999997,
+        5
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 2.000000000000001,
+        "height": 1
+      },
+      "material": {
+        "type": "basic",
+        "color": "#ffffff",
+        "opacity": 1,
+        "blending": "normal",
+        "textureSrc": null,
+        "forceTransparent": true
+      },
+      "parentId": "b78698bb-7bb3-4a0b-b964-854f1945a09a",
+      "components": {},
+      "name": "QuartieriSpagnoli",
+      "order": 4.157353134423295,
+      "shadow": {
+        "castShadow": true
+      }
+    },
+    "348c6c26-6301-4821-ba0b-ca851e7bd34c": {
+      "id": "348c6c26-6301-4821-ba0b-ca851e7bd34c",
+      "position": [
+        8.668621376273224e-16,
+        -2.156737309211248,
+        1.7763568394002505e-15
+      ],
+      "rotation": [
+        0,
+        -1.387778780781446e-17,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        0.9999999999999999,
+        0.9999999999999999
+      ],
+      "geometry": {
+        "type": "sphere",
+        "radius": 0.1
+      },
+      "material": {
+        "type": "basic",
+        "color": "#000000"
+      },
+      "parentId": "1dae56d7-1255-4ce9-8362-34f671028f07",
+      "components": {},
+      "name": "Sphere (18)",
+      "order": 1.674870873234584
+    },
+    "f383810e-1452-4d15-83fb-de3e4053c6ad": {
+      "id": "f383810e-1452-4d15-83fb-de3e4053c6ad",
+      "position": [
+        8.668621376273224e-16,
+        -1.347529421949146,
+        1.7763568394002505e-15
+      ],
+      "rotation": [
+        0,
+        -1.387778780781446e-17,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        0.9999999999999999,
+        0.9999999999999999
+      ],
+      "geometry": {
+        "type": "cylinder",
+        "radius": 0.01,
+        "height": 1.6
+      },
+      "material": {
+        "type": "basic",
+        "color": "#000000"
+      },
+      "parentId": "1dae56d7-1255-4ce9-8362-34f671028f07",
+      "components": {},
+      "name": "Cylinder (19)",
+      "order": 3.3608055772114724
+    },
+    "c218f767-9c76-497a-9336-55162f3f4427": {
+      "id": "c218f767-9c76-497a-9336-55162f3f4427",
+      "position": [
+        -0.007820596108864252,
+        -0.0023085713773731698,
+        0.0030412936084136533
+      ],
+      "rotation": [
+        -9.244463733058732e-33,
+        -1.387778780781446e-17,
+        -6.938893903907239e-18,
+        1
+      ],
+      "scale": [
+        0.9999999999999998,
+        0.9999999999999992,
+        0.9999999999999998
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "1dae56d7-1255-4ce9-8362-34f671028f07",
+      "components": {},
+      "ui": {
+        "width": 176,
+        "height": 70,
+        "text": "Quartieri Spagnoli",
+        "color": "#000000",
+        "fontSize": 30,
+        "type": "3d",
+        "font": {
+          "type": "font",
+          "font": "Futura"
+        },
+        "verticalTextAlign": "center"
+      },
+      "name": "Text (8)",
+      "order": 4.752496879509534
+    },
+    "bd5146c9-96a3-4ed3-a016-5ff45e09ec3c": {
+      "id": "bd5146c9-96a3-4ed3-a016-5ff45e09ec3c",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.0720361572841525,
+        -0.22806638384879727,
+        0.0013619539735680857,
+        0.9709761385756404
+      ],
+      "scale": [
+        0.9999999999999998,
+        1,
+        0.9999999999999999
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "f0ddd8b9-73a1-4ccf-9729-ea25a93d9100",
+      "components": {},
+      "name": "root_TeatroMercadante",
+      "order": 5.333370233013109,
+      "hidden": false
+    },
+    "2bc7dd63-ba3e-4a59-b56d-7cae293bb695": {
+      "id": "2bc7dd63-ba3e-4a59-b56d-7cae293bb695",
+      "position": [
+        0.10042007605249204,
+        7.330753607053832,
+        45.467021893277064
+      ],
+      "rotation": [
+        -4.857225732735062e-18,
+        1,
+        -7.632783294297913e-18,
+        2.220446049250294e-17
+      ],
+      "scale": [
+        5.0000000000000435,
+        4.999999999999997,
+        5.000000000000043
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1.8000000000000007,
+        "height": 0.7000000000000001
+      },
+      "material": {
+        "type": "basic",
+        "color": "#ffffff",
+        "opacity": 1,
+        "blending": "normal",
+        "textureSrc": null,
+        "forceTransparent": true
+      },
+      "parentId": "bd5146c9-96a3-4ed3-a016-5ff45e09ec3c",
+      "components": {},
+      "name": "TeatroMercadante",
+      "order": 4.157353134423295,
+      "shadow": {
+        "castShadow": true
+      }
+    },
+    "cebe385e-a19f-4c44-83e5-9836f932a7e7": {
+      "id": "cebe385e-a19f-4c44-83e5-9836f932a7e7",
+      "position": [
+        0.02240311179222382,
+        -1.422934922450715,
+        0.10418976061153273
+      ],
+      "rotation": [
+        -1.626303258728257e-17,
+        -5.551115123125782e-17,
+        3.0357660829594124e-18,
+        1
+      ],
+      "scale": [
+        1.0000000000000002,
+        0.9999999999999999,
+        1
+      ],
+      "geometry": {
+        "type": "sphere",
+        "radius": 0.1
+      },
+      "material": {
+        "type": "basic",
+        "color": "#000000"
+      },
+      "parentId": "2bc7dd63-ba3e-4a59-b56d-7cae293bb695",
+      "components": {},
+      "name": "Sphere (19)",
+      "order": 1.674870873234584
+    },
+    "6c03d435-4e24-4253-9ffd-67a43eecc9fe": {
+      "id": "6c03d435-4e24-4253-9ffd-67a43eecc9fe",
+      "position": [
+        0.015899241551185554,
+        -0.8267579547465088,
+        0.0739423249094262
+      ],
+      "rotation": [
+        -2.2768245622195593e-17,
+        -1.3877787807814452e-16,
+        8.673617379884032e-19,
+        1
+      ],
+      "scale": [
+        1.0000000000000004,
+        0.9999999999999999,
+        1.0000000000000004
+      ],
+      "geometry": {
+        "type": "cylinder",
+        "radius": 0.01,
+        "height": 1.0999999999999996
+      },
+      "material": {
+        "type": "basic",
+        "color": "#000000"
+      },
+      "parentId": "2bc7dd63-ba3e-4a59-b56d-7cae293bb695",
+      "components": {},
+      "name": "Cylinder (20)",
+      "order": 3.3608055772114724
+    },
+    "8d4260b5-4131-478a-bbe6-65ab785c0cd3": {
+      "id": "8d4260b5-4131-478a-bbe6-65ab785c0cd3",
+      "position": [
+        -0.007820596108864252,
+        -0.0023085713773731698,
+        0.0030412936084136533
+      ],
+      "rotation": [
+        -9.244463733058732e-33,
+        -1.387778780781446e-17,
+        -6.938893903907239e-18,
+        1
+      ],
+      "scale": [
+        0.9999999999999998,
+        0.9999999999999992,
+        0.9999999999999998
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "2bc7dd63-ba3e-4a59-b56d-7cae293bb695",
+      "components": {},
+      "ui": {
+        "width": 176,
+        "height": 70,
+        "text": "Teatro Mercadante",
+        "color": "#000000",
+        "fontSize": 30,
+        "type": "3d",
+        "font": {
+          "type": "font",
+          "font": "Futura"
+        },
+        "verticalTextAlign": "center"
+      },
+      "name": "Text (9)",
+      "order": 4.752496879509534
+    },
+    "fb020a4b-110f-4937-88c6-d676344d9210": {
+      "id": "fb020a4b-110f-4937-88c6-d676344d9210",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.07752013655333982,
+        -0.46708483390371025,
+        0.029578599910726946,
+        0.88031102048834
+      ],
+      "scale": [
+        1.0000000000000049,
+        0.9999999999999996,
+        1.000000000000005
+      ],
+      "geometry": null,
+      "material": null,
+      "components": {},
+      "name": "root_PalazzoReale",
+      "order": 7.3476079521085875,
+      "parentId": "f0ddd8b9-73a1-4ccf-9729-ea25a93d9100"
+    },
+    "7bbd120d-fd26-4de8-bca3-929a030582d6": {
+      "id": "7bbd120d-fd26-4de8-bca3-929a030582d6",
+      "position": [
+        0,
+        4,
+        45
+      ],
+      "rotation": [
+        0,
+        -0.9986295347545738,
+        0,
+        -0.052335956242943765
+      ],
+      "scale": [
+        5,
+        4.999999999999994,
+        5
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1.2000000000000002,
+        "height": 0.7000000000000001
+      },
+      "material": {
+        "type": "basic",
+        "color": "#ffffff",
+        "opacity": 1,
+        "blending": "normal",
+        "textureSrc": null,
+        "forceTransparent": true
+      },
+      "parentId": "fb020a4b-110f-4937-88c6-d676344d9210",
+      "components": {},
+      "name": "PalazzoReale",
+      "order": 1,
+      "shadow": {
+        "castShadow": true
+      }
+    },
+    "07398d43-e7f6-4c6f-808d-fe3a5987f632": {
+      "id": "07398d43-e7f6-4c6f-808d-fe3a5987f632",
+      "position": [
+        -2.1316282072803616e-17,
+        -1.2443659445348532,
+        0
+      ],
+      "rotation": [
+        0,
+        1.3877787807814457e-17,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        0.9999999999999999
+      ],
+      "geometry": {
+        "type": "sphere",
+        "radius": 0.1
+      },
+      "material": {
+        "type": "basic",
+        "color": "#000000"
+      },
+      "parentId": "7bbd120d-fd26-4de8-bca3-929a030582d6",
+      "components": {},
+      "name": "Sphere (20)",
+      "order": 2
+    },
+    "1835a478-8fe9-467d-9a6e-778e8a03394d": {
+      "id": "1835a478-8fe9-467d-9a6e-778e8a03394d",
+      "position": [
+        -0.005085672736099611,
+        -0.7632132617728872,
+        -0.026643075674213534
+      ],
+      "rotation": [
+        1.734723475976807e-18,
+        2.7755575615628914e-17,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1.0000000000000002,
+        1
+      ],
+      "geometry": {
+        "type": "cylinder",
+        "radius": 0.01,
+        "height": 0.8
+      },
+      "material": {
+        "type": "basic",
+        "color": "#000000"
+      },
+      "parentId": "7bbd120d-fd26-4de8-bca3-929a030582d6",
+      "components": {},
+      "name": "Cylinder (21)",
+      "order": 3
+    },
+    "537bd6e9-7487-4d35-a9a8-2ea1d835078d": {
+      "id": "537bd6e9-7487-4d35-a9a8-2ea1d835078d",
+      "position": [
+        -0.00012725173880012708,
+        0,
+        0.0006546534438793827
+      ],
+      "rotation": [
+        0,
+        6.938893903907228e-18,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        0.9999999999999999,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "7bbd120d-fd26-4de8-bca3-929a030582d6",
+      "components": {},
+      "ui": {
+        "width": 127,
+        "height": 72,
+        "text": "Palazzo Reale",
+        "color": "#000000",
+        "fontSize": 30,
+        "type": "3d",
+        "font": {
+          "type": "font",
+          "font": "Futura"
+        },
+        "verticalTextAlign": "center"
+      },
+      "name": "Text (10)",
+      "order": 4
+    },
+    "965396ff-54cd-465c-a5e2-33dcd163e875": {
+      "id": "965396ff-54cd-465c-a5e2-33dcd163e875",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        -0.06090453019763572,
+        0.674737041528381,
+        -0.04269226526977181,
+        -0.7343009828926296
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "f0ddd8b9-73a1-4ccf-9729-ea25a93d9100",
+      "components": {},
+      "name": "root_PizzoFalconeMonteEchia",
+      "order": 7.33753868510714
+    },
+    "94c67b6d-45e3-4d2e-8ea5-913a39ad734c": {
+      "id": "94c67b6d-45e3-4d2e-8ea5-913a39ad734c",
+      "position": [
+        0.01008651424842455,
+        3.227732656698577,
+        45.08806703608596
+      ],
+      "rotation": [
+        4.169049880311747e-18,
+        0.9986295347545739,
+        -3.613176562936849e-17,
+        0.05233595624294367
+      ],
+      "scale": [
+        5.000000000000011,
+        4.999999999999995,
+        5.00000000000001
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 2.000000000000001,
+        "height": 0.7000000000000001
+      },
+      "material": {
+        "type": "basic",
+        "color": "#ffffff",
+        "opacity": 1,
+        "blending": "normal",
+        "textureSrc": null,
+        "forceTransparent": true
+      },
+      "parentId": "965396ff-54cd-465c-a5e2-33dcd163e875",
+      "components": {},
+      "name": "PizzoFalconeMonteEchia",
+      "order": 7.2429311297386025,
+      "shadow": {
+        "castShadow": true
+      }
+    },
+    "17e861f2-e15b-462f-8563-bdd29a7e3714": {
+      "id": "17e861f2-e15b-462f-8563-bdd29a7e3714",
+      "position": [
+        0.007764133684970309,
+        -0.9326719067444578,
+        0.03492439347567178
+      ],
+      "rotation": [
+        6.938893903907228e-18,
+        6.93889390390723e-18,
+        3.469446951953614e-18,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        0.9999999999999998
+      ],
+      "geometry": {
+        "type": "sphere",
+        "radius": 0.1
+      },
+      "material": {
+        "type": "basic",
+        "color": "#000000"
+      },
+      "parentId": "94c67b6d-45e3-4d2e-8ea5-913a39ad734c",
+      "components": {},
+      "name": "Sphere (21)",
+      "order": 1.3716071260409102
+    },
+    "974c133e-0768-444e-aa4d-4f4629d9e803": {
+      "id": "974c133e-0768-444e-aa4d-4f4629d9e803",
+      "position": [
+        -0.0008203776171034072,
+        -0.5919814010205053,
+        -0.007457052987088986
+      ],
+      "rotation": [
+        0,
+        1.3877787807814457e-17,
+        2.6020852139652106e-18,
+        1
+      ],
+      "scale": [
+        1,
+        1.0000000000000002,
+        0.9999999999999999
+      ],
+      "geometry": {
+        "type": "cylinder",
+        "radius": 0.01,
+        "height": 0.40000000000000013
+      },
+      "material": {
+        "type": "basic",
+        "color": "#000000"
+      },
+      "parentId": "94c67b6d-45e3-4d2e-8ea5-913a39ad734c",
+      "components": {},
+      "name": "Cylinder (22)",
+      "order": 2.6838391305330522
+    },
+    "821f137d-e383-45e8-9411-826494b87f76": {
+      "id": "821f137d-e383-45e8-9411-826494b87f76",
+      "position": [
+        -0.00012725173880012708,
+        0,
+        0.0006546534438793827
+      ],
+      "rotation": [
+        0,
+        6.938893903907228e-18,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        0.9999999999999999,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "94c67b6d-45e3-4d2e-8ea5-913a39ad734c",
+      "components": {},
+      "ui": {
+        "width": 205,
+        "height": 72,
+        "text": "PizzoFalcone e Monte Echia",
+        "color": "#000000",
+        "fontSize": 30,
+        "type": "3d",
+        "font": {
+          "type": "font",
+          "font": "Futura"
+        },
+        "verticalTextAlign": "center"
+      },
+      "name": "Text (11)",
+      "order": 4.582482622489626
+    },
+    "30adab6f-3427-4774-911e-d11bb446515e": {
+      "id": "30adab6f-3427-4774-911e-d11bb446515e",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        -0.0724180432022296,
+        0.30904019942651534,
+        -0.01522335746699256,
+        -0.9481656139855645
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "f0ddd8b9-73a1-4ccf-9729-ea25a93d9100",
+      "components": {},
+      "name": "root_CasteNuovo",
+      "order": 7.407498446106437
+    },
+    "319ca922-a7e6-46c3-b60c-6410762fb724": {
+      "id": "319ca922-a7e6-46c3-b60c-6410762fb724",
+      "position": [
+        0,
+        4,
+        45
+      ],
+      "rotation": [
+        0,
+        -0.9986295347545738,
+        0,
+        -0.052335956242943765
+      ],
+      "scale": [
+        5,
+        4.999999999999994,
+        5
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1.1,
+        "height": 0.6000000000000001
+      },
+      "material": {
+        "type": "basic",
+        "color": "#ffffff",
+        "opacity": 1,
+        "blending": "normal",
+        "textureSrc": null,
+        "forceTransparent": true
+      },
+      "parentId": "30adab6f-3427-4774-911e-d11bb446515e",
+      "components": {},
+      "name": "CastelNuovo",
+      "order": 7.2429311297386025,
+      "shadow": {
+        "castShadow": true
+      }
+    },
+    "4c1db090-ffef-45bb-accf-5e2c5e60d028": {
+      "id": "4c1db090-ffef-45bb-accf-5e2c5e60d028",
+      "position": [
+        -2.1316282072803616e-17,
+        -0.844365944534853,
+        0
+      ],
+      "rotation": [
+        0,
+        1.3877787807814457e-17,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        0.9999999999999999
+      ],
+      "geometry": {
+        "type": "sphere",
+        "radius": 0.1
+      },
+      "material": {
+        "type": "basic",
+        "color": "#000000"
+      },
+      "parentId": "319ca922-a7e6-46c3-b60c-6410762fb724",
+      "components": {},
+      "name": "Sphere (22)",
+      "order": 1.3716071260409102
+    },
+    "b2b4c617-1a31-48fe-9289-fb80cef20500": {
+      "id": "b2b4c617-1a31-48fe-9289-fb80cef20500",
+      "position": [
+        -2.13162820727977e-17,
+        -0.5441890376482788,
+        0
+      ],
+      "rotation": [
+        0,
+        2.7755575615628914e-17,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1.0000000000000002,
+        1
+      ],
+      "geometry": {
+        "type": "cylinder",
+        "radius": 0.01,
+        "height": 0.5
+      },
+      "material": {
+        "type": "basic",
+        "color": "#000000"
+      },
+      "parentId": "319ca922-a7e6-46c3-b60c-6410762fb724",
+      "components": {},
+      "name": "Cylinder (23)",
+      "order": 2.6838391305330522
+    },
+    "5087289f-e718-410f-b50f-cacedd617ad4": {
+      "id": "5087289f-e718-410f-b50f-cacedd617ad4",
+      "position": [
+        -0.00012725173880057117,
+        -1.1102230246251565e-16,
+        0.0006546534438776064
+      ],
+      "rotation": [
+        -8.67361737988404e-19,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.9999999999999998,
+        0.9999999999999996,
+        0.9999999999999998
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "319ca922-a7e6-46c3-b60c-6410762fb724",
+      "components": {},
+      "ui": {
+        "width": 128,
+        "height": 42,
+        "text": "Castel Nuovo",
+        "color": "#000000",
+        "fontSize": 30,
+        "type": "3d",
+        "font": {
+          "type": "font",
+          "font": "Futura"
+        },
+        "verticalTextAlign": "center"
+      },
+      "name": "Text (12)",
+      "order": 4.582482622489626
+    },
+    "652f0359-1e99-4d55-8d27-1180bda640eb": {
+      "id": "652f0359-1e99-4d55-8d27-1180bda640eb",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        -0.11355112436226224,
+        0.3736296431369806,
+        -0.026457324449666433,
+        -0.9202211918383406
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "f0ddd8b9-73a1-4ccf-9729-ea25a93d9100",
+      "components": {},
+      "name": "root_GalleriaUmbertoPrimo",
+      "order": 7.448287271682628
+    },
+    "71db921d-39fa-4cd1-b239-00c8208c6ee6": {
+      "id": "71db921d-39fa-4cd1-b239-00c8208c6ee6",
+      "position": [
+        0,
+        4,
+        45
+      ],
+      "rotation": [
+        0,
+        -0.9986295347545738,
+        0,
+        -0.052335956242943765
+      ],
+      "scale": [
+        5,
+        4.999999999999994,
+        5
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1.4000000000000004,
+        "height": 0.9
+      },
+      "material": {
+        "type": "basic",
+        "color": "#ffffff",
+        "opacity": 1,
+        "blending": "normal",
+        "textureSrc": null,
+        "forceTransparent": true
+      },
+      "parentId": "652f0359-1e99-4d55-8d27-1180bda640eb",
+      "components": {},
+      "name": "GalleriaUmbertoPrimo",
+      "order": 7.2429311297386025,
+      "shadow": {
+        "castShadow": true
+      }
+    },
+    "90314531-8dab-49bc-b2d6-9bec6e1cce8b": {
+      "id": "90314531-8dab-49bc-b2d6-9bec6e1cce8b",
+      "position": [
+        -2.1316282072803616e-17,
+        -0.844365944534853,
+        0
+      ],
+      "rotation": [
+        0,
+        1.3877787807814457e-17,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        0.9999999999999999
+      ],
+      "geometry": {
+        "type": "sphere",
+        "radius": 0.1
+      },
+      "material": {
+        "type": "basic",
+        "color": "#000000"
+      },
+      "parentId": "71db921d-39fa-4cd1-b239-00c8208c6ee6",
+      "components": {},
+      "name": "Sphere (23)",
+      "order": 1.3716071260409102
+    },
+    "8c95a583-92f8-42f1-ae8c-2987a47e4bbe": {
+      "id": "8c95a583-92f8-42f1-ae8c-2987a47e4bbe",
+      "position": [
+        -2.13162820727977e-17,
+        -0.5441890376482788,
+        0
+      ],
+      "rotation": [
+        0,
+        2.7755575615628914e-17,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1.0000000000000002,
+        1
+      ],
+      "geometry": {
+        "type": "cylinder",
+        "radius": 0.01,
+        "height": 0.5
+      },
+      "material": {
+        "type": "basic",
+        "color": "#000000"
+      },
+      "parentId": "71db921d-39fa-4cd1-b239-00c8208c6ee6",
+      "components": {},
+      "name": "Cylinder (24)",
+      "order": 2.6838391305330522
+    },
+    "22e0eaaf-9b01-4166-8520-4e91127e7312": {
+      "id": "22e0eaaf-9b01-4166-8520-4e91127e7312",
+      "position": [
+        -0.00012725173880057117,
+        -1.1102230246251565e-16,
+        0.0006546534438776064
+      ],
+      "rotation": [
+        -8.67361737988404e-19,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        0.9999999999999998,
+        0.9999999999999996,
+        0.9999999999999998
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "71db921d-39fa-4cd1-b239-00c8208c6ee6",
+      "components": {},
+      "ui": {
+        "width": 134,
+        "height": 50,
+        "text": "Galleria Umberto Primo",
+        "color": "#000000",
+        "fontSize": 30,
+        "type": "3d",
+        "font": {
+          "type": "font",
+          "font": "Futura"
+        },
+        "verticalTextAlign": "center"
+      },
+      "name": "Text (13)",
+      "order": 4.582482622489626
+    },
+    "7f30a4cb-6665-4c15-affb-92cd9ad22ad3": {
+      "id": "7f30a4cb-6665-4c15-affb-92cd9ad22ad3",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.03359194135657729,
+        -0.9429925296029702,
+        -0.12354786095153229,
+        -0.30720123151315176
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "f0ddd8b9-73a1-4ccf-9729-ea25a93d9100",
+      "components": {},
+      "name": "root_CastelSantElmo",
+      "order": 6.428712043622205
+    },
+    "273ead6d-6a7e-4033-8f38-bc5787881fbb": {
+      "id": "273ead6d-6a7e-4033-8f38-bc5787881fbb",
+      "position": [
+        0,
+        4,
+        45
+      ],
+      "rotation": [
+        0,
+        -1,
+        0,
+        6.123233995736766e-17
+      ],
+      "scale": [
+        5,
+        4.999999999999994,
+        5
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 1.6000000000000005,
+        "height": 0.7999999999999999
+      },
+      "material": {
+        "type": "basic",
+        "color": "#ffffff",
+        "opacity": 1,
+        "blending": "normal",
+        "textureSrc": null,
+        "forceTransparent": true
+      },
+      "parentId": "7f30a4cb-6665-4c15-affb-92cd9ad22ad3",
+      "components": {},
+      "name": "CastelSantElmo",
+      "order": 7.2429311297386025,
+      "shadow": {
+        "castShadow": true
+      }
+    },
+    "dfe295cc-9815-4176-85ec-7ac383077fff": {
+      "id": "dfe295cc-9815-4176-85ec-7ac383077fff",
+      "position": [
+        -2.1316282072803616e-17,
+        -0.844365944534853,
+        0
+      ],
+      "rotation": [
+        0,
+        1.3877787807814457e-17,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        0.9999999999999999
+      ],
+      "geometry": {
+        "type": "sphere",
+        "radius": 0.1
+      },
+      "material": {
+        "type": "basic",
+        "color": "#000000"
+      },
+      "parentId": "273ead6d-6a7e-4033-8f38-bc5787881fbb",
+      "components": {},
+      "name": "Sphere (24)",
+      "order": 1.3716071260409102
+    },
+    "1eced655-0256-4fb3-95a6-b249f22f32ca": {
+      "id": "1eced655-0256-4fb3-95a6-b249f22f32ca",
+      "position": [
+        -4.291011990176022e-16,
+        -0.6282582529202226,
+        0.0023481525325443897
+      ],
+      "rotation": [
+        -5.421010862427524e-19,
+        0,
+        -2.1684043449710093e-19,
+        1
+      ],
+      "scale": [
+        0.9999999999999999,
+        0.9999999999999999,
+        0.9999999999999999
+      ],
+      "geometry": {
+        "type": "cylinder",
+        "radius": 0.01,
+        "height": 0.20000000000000004
+      },
+      "material": {
+        "type": "basic",
+        "color": "#000000"
+      },
+      "parentId": "273ead6d-6a7e-4033-8f38-bc5787881fbb",
+      "components": {},
+      "name": "Cylinder (25)",
+      "order": 2.6838391305330522
+    },
+    "94e17df0-ce45-4ffa-8737-d4b3c73f9c69": {
+      "id": "94e17df0-ce45-4ffa-8737-d4b3c73f9c69",
+      "position": [
+        -0.012741138727794742,
+        0,
+        0.026123205679692063
+      ],
+      "rotation": [
+        2.407412430484045e-34,
+        -2.7755575615628914e-17,
+        4.81482486096809e-35,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "273ead6d-6a7e-4033-8f38-bc5787881fbb",
+      "components": {},
+      "ui": {
+        "width": 159,
+        "height": 54,
+        "text": "Castel Sant'Elmo",
+        "color": "#000000",
+        "fontSize": 30,
+        "type": "3d",
+        "font": {
+          "type": "font",
+          "font": "Futura"
+        },
+        "verticalTextAlign": "center"
+      },
+      "name": "Text (14)",
+      "order": 3.847891678775106
+    },
+    "b434f7af-6455-40db-9e41-a2955829c96d": {
+      "id": "b434f7af-6455-40db-9e41-a2955829c96d",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0.006946860233963048,
+        0.6944714644100042,
+        0.02559664100984747,
+        -0.7190312498230814
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "f0ddd8b9-73a1-4ccf-9729-ea25a93d9100",
+      "components": {},
+      "name": "root_PuntaCampanella",
+      "order": 7.342340404540069
+    },
+    "064c4d71-f2f0-4256-8976-08193a214626": {
+      "id": "064c4d71-f2f0-4256-8976-08193a214626",
+      "position": [
+        0.01008651424842455,
+        3.227732656698577,
+        45.08806703608596
+      ],
+      "rotation": [
+        4.169049880311747e-18,
+        0.9986295347545739,
+        -3.613176562936849e-17,
+        0.05233595624294367
+      ],
+      "scale": [
+        5.000000000000011,
+        4.999999999999995,
+        5.00000000000001
+      ],
+      "geometry": {
+        "type": "plane",
+        "width": 2.000000000000001,
+        "height": 0.7000000000000001
+      },
+      "material": {
+        "type": "basic",
+        "color": "#ffffff",
+        "opacity": 1,
+        "blending": "normal",
+        "textureSrc": null,
+        "forceTransparent": true
+      },
+      "parentId": "b434f7af-6455-40db-9e41-a2955829c96d",
+      "components": {},
+      "name": "PunaCampanella",
+      "order": 7.2429311297386025,
+      "shadow": {
+        "castShadow": true
+      }
+    },
+    "7a306016-98ca-4b41-a324-6b8ff124c6f4": {
+      "id": "7a306016-98ca-4b41-a324-6b8ff124c6f4",
+      "position": [
+        0.007764133684970309,
+        -0.9326719067444578,
+        0.03492439347567178
+      ],
+      "rotation": [
+        6.938893903907228e-18,
+        6.93889390390723e-18,
+        3.469446951953614e-18,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        0.9999999999999998
+      ],
+      "geometry": {
+        "type": "sphere",
+        "radius": 0.1
+      },
+      "material": {
+        "type": "basic",
+        "color": "#000000"
+      },
+      "parentId": "064c4d71-f2f0-4256-8976-08193a214626",
+      "components": {},
+      "name": "Sphere (25)",
+      "order": 1.3716071260409102
+    },
+    "a10db41e-df12-404a-b807-d5150397094f": {
+      "id": "a10db41e-df12-404a-b807-d5150397094f",
+      "position": [
+        -0.0008203776171034072,
+        -0.5919814010205053,
+        -0.007457052987088986
+      ],
+      "rotation": [
+        0,
+        1.3877787807814457e-17,
+        2.6020852139652106e-18,
+        1
+      ],
+      "scale": [
+        1,
+        1.0000000000000002,
+        0.9999999999999999
+      ],
+      "geometry": {
+        "type": "cylinder",
+        "radius": 0.01,
+        "height": 0.40000000000000013
+      },
+      "material": {
+        "type": "basic",
+        "color": "#000000"
+      },
+      "parentId": "064c4d71-f2f0-4256-8976-08193a214626",
+      "components": {},
+      "name": "Cylinder (26)",
+      "order": 2.6838391305330522
+    },
+    "679d5495-e751-4490-aa1c-247b5a880bcd": {
+      "id": "679d5495-e751-4490-aa1c-247b5a880bcd",
+      "position": [
+        -0.00012725173880012708,
+        0,
+        0.0006546534438793827
+      ],
+      "rotation": [
+        0,
+        6.938893903907228e-18,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        0.9999999999999999,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "064c4d71-f2f0-4256-8976-08193a214626",
+      "components": {},
+      "ui": {
+        "width": 205,
+        "height": 72,
+        "text": "Punta Campanella",
+        "color": "#000000",
+        "fontSize": 30,
+        "type": "3d",
+        "font": {
+          "type": "font",
+          "font": "Futura"
+        },
+        "verticalTextAlign": "center"
+      },
+      "name": "Text (15)",
       "order": 4.582482622489626
     }
   },
